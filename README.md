@@ -6,7 +6,7 @@ This DLL execute a script file `script.bat` placed into the same folder as the D
 
 Example :
 
-- Move `C:\Windows\nodepad.exe` into `C:\temp`
+- Move `C:\Windows\notepad.exe` into `C:\temp`
 - Rename `x64.dll` to `CRYPTBASE.dll`
 - Enjoy, this is DLL Hijacking 
 
